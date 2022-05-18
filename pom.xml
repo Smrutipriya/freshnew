@@ -8,6 +8,6 @@
 
 <version>1.0</version>
 
-<packaging>docker-jenkins-integration-jar</packaging>
+<packaging>jar</packaging>
 
 </project>
